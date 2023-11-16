@@ -1,2 +1,2 @@
 # pyobf-project
-Obfuscates Python programs.
+Obfuscates Python programs. (WIP)
